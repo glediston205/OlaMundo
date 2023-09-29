@@ -1,2 +1,2 @@
-# OlaMundo
- segundo repositorio(teste)
+# OláMundo
+ segundo repositorio curso Git e GitHub(teste)
